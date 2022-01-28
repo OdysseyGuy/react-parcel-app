@@ -1,0 +1,23 @@
+{
+  "name": "rpa-template",
+  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "parceljs",
+    "template"
+  ],
+  "description": "Template repository for parcel based react web applications",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.2.1"
+  },
+  
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
